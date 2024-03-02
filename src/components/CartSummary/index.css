@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.summary-heading {
+  font-size: 23px;
+  margin-bottom: 0;
+}
+
+.summary-text {
+  color: #616e7c;
+}
+
+.summary-para {
+  margin-top: 0;
+  color: #616e7c;
+}
+
+.checkout-btn {
+  width: 100%;
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 7px;
+  border: none;
+  border-radius: 5px;
+}
